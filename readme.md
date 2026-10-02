@@ -79,12 +79,6 @@ RP2040 Zero ทำหน้าที่อ่านข้อมูลจาก P
 |       7 | IRQ       | Not connected |
 |       8 | ACK       | Not connected |
 
-### ⚠️ สำคัญ
-
-**PS2 Pin 3 ต้องต่อ GND จริงของ RP2040**
-
-ห้ามต่อ PS2 GND เข้ากับ GP4 เพราะ GP4 ถูกใช้สำหรับ PSP CROSS
-
 ---
 
 # 🎮 PSP Button Mapping
