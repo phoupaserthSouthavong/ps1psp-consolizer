@@ -371,14 +371,6 @@ These features are planned for future versions.
 |       7 | IRQ       | Not connected |
 |       8 | ACK       | Not connected |
 
-### ⚠️ Important
-
-**PS2 Pin 3 must be connected to the actual RP2040 GND pin.**
-
-Do not connect PS2 GND to GP4.
-
-GP4 is used for the PSP CROSS button.
-
 ---
 
 # 🎮 PSP Button Mapping
